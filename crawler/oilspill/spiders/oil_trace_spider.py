@@ -1,9 +1,11 @@
 import scrapy
 import csv
+import os
 
 
 class OilTraceSpider(scrapy.Spider):
     name = "oiltrace"
+
 
     def start_requests(self):
         urls = [
@@ -13,7 +15,8 @@ class OilTraceSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        with open('oilstory.csv', 'w') as csv_file:
+        source_path = '/'.join(os.getcwd().split('/')[:-1])
+        with open(source_path+'/files/oilstory.csv', 'w') as csv_file:
             wr = csv.writer(csv_file, delimiter=',', quoting=csv.QUOTE_ALL)
             for row in response.xpath('//tr'):
                 list_row = row.css('td::text').getall()

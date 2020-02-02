@@ -1,0 +1,1005 @@
+,localidade,municipio,estado,data_avistamento,municipio_estado
+0,Praia Bela,Pitimbu,PB,2019-08-30,Pitimbu/PB
+1,Praia de Tambaba,Pitimbu,PB,2019-08-30,Pitimbu/PB
+2,Praia de Acau,Pitimbu,PB,2019-08-30,Pitimbu/PB
+3,Praia de Gramame,Conde,PB,2019-08-30,Conde/PB
+4,Praia de Jacumã,Conde,PB,2019-08-30,Conde/PB
+5,Praia de Camboinha,Cabedelo,PB,2019-09-01,Cabedelo/PB
+6,Praia do Poço,Cabedelo,PB,2019-09-01,Cabedelo/PB
+7,Praia de Intermares,Cabedelo,PB,2019-09-01,Cabedelo/PB
+8,Praia Formosa,Cabedelo,PB,2019-09-01,Cabedelo/PB
+9,Praia do Cabo Branco,João Pessoa,PB,2019-09-01,João Pessoa/PB
+10,Praia de Tambaú,João Pessoa,PB,2019-09-01,João Pessoa/PB
+11,Praia de Dell Chifre,Olinda,PE,2019-09-02,Olinda/PE
+12,Praia do Janga,Paulista,PE,2019-09-02,Paulista/PE
+13,Suape,Ipojuca,PE,2019-09-02,Ipojuca/PE
+14,Pau Amarelo,Paulista,PE,2019-09-02,Paulista/PE
+15,Conceição,Paulista,PE,2019-09-02,Paulista/PE
+16,Maria Farinha,Paulista,PE,2019-09-02,Paulista/PE
+17,Praia do Forte Orange,Ilha De Itamaracá,PE,2019-09-02,Ilha De Itamaracá/PE
+18,Praia do Porto,Barra Dos Coqueiros,SE,2019-09-02,Barra Dos Coqueiros/SE
+19,Praia da Costa,Barra Dos Coqueiros,SE,2019-09-02,Barra Dos Coqueiros/SE
+20,Atalaia Nova,Barra Dos Coqueiros,SE,2019-09-02,Barra Dos Coqueiros/SE
+21,Praia de Nossa Senhora do Ó,Ipojuca,PE,2019-09-02,Ipojuca/PE
+22,Praia de Gamboa,Ipojuca,PE,2019-09-02,Ipojuca/PE
+23,Porto de Galinhas,Ipojuca,PE,2019-09-02,Ipojuca/PE
+24,Praia do Saco (1),Estância,SE,2019-09-03,Estância/SE
+25,Abais,Estância,SE,2019-09-03,Estância/SE
+26,Piedade,Jaboatão Dos Guararapes,PE,2019-09-03,Jaboatão Dos Guararapes/PE
+27,Candeias,Jaboatão Dos Guararapes,PE,2019-09-03,Jaboatão Dos Guararapes/PE
+28,Boa Viagem,Recife,PE,2019-09-03,Recife/PE
+29,Carneiros,Tamandaré,PE,2019-09-03,Tamandaré/PE
+30,Praia do Paiva,Cabo De Santo Agostinho,PE,2019-09-04,Cabo De Santo Agostinho/PE
+31,Lagoa de Praia,Rio Tinto,PB,2019-09-07,Rio Tinto/PB
+32,Praia de Campina,Rio Tinto,PB,2019-09-07,Rio Tinto/PB
+33,Oiteiro,Rio Tinto,PB,2019-09-07,Rio Tinto/PB
+34,Baía Formosa,Baía Formosa,RN,2019-09-07,Baía Formosa/RN
+35,Sagi,Baía Formosa,RN,2019-09-07,Baía Formosa/RN
+36,Barra do rio Camaratuba,Mataraca,PB,2019-09-07,Mataraca/PB
+37,Via Costeira,Natal,RN,2019-09-07,Natal/RN
+38,Barra do Rio Mamanguape,Rio Tinto,PB,2019-09-07,Rio Tinto/PB
+39,Morro Branco,Beberibe,CE,2019-09-07,Beberibe/CE
+40,Praia Ponta de Pedras,Goiana,PE,2019-09-07,Goiana/PE
+41,Tamandaré,Tamandaré,PE,2019-09-07,Tamandaré/PE
+42,Catuama,Goiana,PE,2019-09-07,Goiana/PE
+43,Barra de Sucatinga,Beberibe,CE,2019-09-08,Beberibe/CE
+44,Barra do Cunhaú,Canguaretama,RN,2019-09-10,Canguaretama/RN
+45,Maracajaú,Maxaranguape,RN,2019-09-10,Maxaranguape/RN
+46,Praia da Prainha,Aquiraz,CE,2019-09-10,Aquiraz/CE
+47,Praia do Giz,Tibau Do Sul,RN,2019-09-10,Tibau Do Sul/RN
+48,Pipa,Tibau Do Sul,RN,2019-09-10,Tibau Do Sul/RN
+49,Pirambu,Tibau Do Sul,RN,2019-09-10,Tibau Do Sul/RN
+50,Praia do Amor,Tibau Do Sul,RN,2019-09-10,Tibau Do Sul/RN
+51,Barra de Tabatinga,Nísia Floresta,RN,2019-09-10,Nísia Floresta/RN
+52,Barreta,Nísia Floresta,RN,2019-09-10,Nísia Floresta/RN
+53,Camurupim,Nísia Floresta,RN,2019-09-10,Nísia Floresta/RN
+54,Pirambúzios,Nísia Floresta,RN,2019-09-10,Nísia Floresta/RN
+55,Sibaúma/Das Minas,Tibau Do Sul,RN,2019-09-11,Tibau Do Sul/RN
+56,Rio Punaú,Rio Do Fogo,RN,2019-09-11,Rio Do Fogo/RN
+57,Praia de Zumbi,Rio Do Fogo,RN,2019-09-11,Rio Do Fogo/RN
+58,Pirangi do Norte,Parnamirim,RN,2019-09-11,Parnamirim/RN
+59,Barreira do Inferno,Parnamirim,RN,2019-09-11,Parnamirim/RN
+60,Perobas,Touros,RN,2019-09-11,Touros/RN
+61,Foz do Rio Pirangi/Pium,Nísia Floresta,RN,2019-09-11,Nísia Floresta/RN
+62,Pirangi do Sul,Nísia Floresta,RN,2019-09-11,Nísia Floresta/RN
+63,Praia de Búzios,Nísia Floresta,RN,2019-09-11,Nísia Floresta/RN
+64,Cotolelo,Nísia Floresta,RN,2019-09-11,Nísia Floresta/RN
+65,Ponta da Ilha Verde,Nísia Floresta,RN,2019-09-12,Nísia Floresta/RN
+66,Muriú,Maxaranguape,RN,2019-09-12,Maxaranguape/RN
+67,Foz do Rio Catu,Tibau Do Sul,RN,2019-09-12,Tibau Do Sul/RN
+68,Ponta Negra,Natal,RN,2019-09-14,Natal/RN
+69,Cabo de São Roque,Maxaranguape,RN,2019-09-14,Maxaranguape/RN
+70,Praia de Touros,Touros,RN,2019-09-14,Touros/RN
+71,Praia do Calcanhar,Touros,RN,2019-09-14,Touros/RN
+72,Praia de Caraúbas,Maxaranguape,RN,2019-09-15,Maxaranguape/RN
+73,Pajuçara/Ponta Verde,Maceió,AL,2019-09-15,Maceió/AL
+74,Ilha dos Poldros,Araioses,MA,2019-09-16,Araioses/MA
+75,Ponta de Maracajaú,Maxaranguape,RN,2019-09-17,Maxaranguape/RN
+76,Praia do Forte,Natal,RN,2019-09-17,Natal/RN
+77,Praia de Areia Preta,Natal,RN,2019-09-17,Natal/RN
+78,Ipioca,Maceió,AL,2019-09-17,Maceió/AL
+79,Praia do Francês,Marechal Deodoro,AL,2019-09-18,Marechal Deodoro/AL
+80,Praia do Carro Quebrado,Passo De Camaragibe,AL,2019-09-18,Passo De Camaragibe/AL
+81,Barra de São Miguel,Barra De São Miguel,AL,2019-09-19,Barra De São Miguel/AL
+82,Redinha,Natal,RN,2019-09-20,Natal/RN
+83,Ilha dos Poldros,Araioses,MA,2019-09-20,Araioses/MA
+84,Barra do Rio,Extremoz,RN,2019-09-20,Extremoz/RN
+85,Praia de Santa Rita,Extremoz,RN,2019-09-20,Extremoz/RN
+86,Jenipabu,Extremoz,RN,2019-09-20,Extremoz/RN
+87,Atins,Barreirinhas,MA,2019-09-20,Barreirinhas/MA
+88,Lot. Encontro do Mar,Barra De São Miguel,AL,2019-09-21,Barra De São Miguel/AL
+89,Praia do Barro Vermelho,Paulino Neves,MA,2019-09-21,Paulino Neves/MA
+90,Barra de Santo Antônio,Barra De Santo Antônio,AL,2019-09-22,Barra De Santo Antônio/AL
+91,Falésias do Gunga,Roteiro,AL,2019-09-22,Roteiro/AL
+92,Praia do Gunga,Barra De São Miguel,AL,2019-09-22,Barra De São Miguel/AL
+93,Praia de Itatinga,Alcântara,MA,2019-09-22,Alcântara/MA
+94,Praia Canto do Atins,Barreirinhas,MA,2019-09-22,Barreirinhas/MA
+95,Paripueira,Paripueira,AL,2019-09-22,Paripueira/AL
+96,Praia de Taíba,São Gonçalo Do Amarante,CE,2019-09-23,São Gonçalo Do Amarante/CE
+97,Paracuru,Paracuru,CE,2019-09-23,Paracuru/CE
+98,Praia de Alagamar,Natal,RN,2019-09-24,Natal/RN
+99,Praia de Ponta dos Mangues,Pacatuba,SE,2019-09-24,Pacatuba/SE
+100,Praia de Jatobá,Barra Dos Coqueiros,SE,2019-09-24,Barra Dos Coqueiros/SE
+101,Barra dos Coqueiros,Barra Dos Coqueiros,SE,2019-09-24,Barra Dos Coqueiros/SE
+102,Praia do Pirambu,Pirambu,SE,2019-09-24,Pirambu/SE
+103,Santo Amaro do Maranhão,Santo Amaro Do Maranhão,MA,2019-09-25,Santo Amaro Do Maranhão/MA
+104,Ilha do Livramento,Alcântara,MA,2019-09-25,Alcântara/MA
+105,Praia da Mamuna,Alcântara,MA,2019-09-25,Alcântara/MA
+106,Travosa,Santo Amaro Do Maranhão,MA,2019-09-25,Santo Amaro Do Maranhão/MA
+107,São José da Coroa Grande,São José Da Coroa Grande,PE,2019-09-25,São José Da Coroa Grande/PE
+108,Malhada,Jijoca De Jericoacoara,CE,2019-09-26,Jijoca De Jericoacoara/CE
+109,Av. Litorânea,São Luís,MA,2019-09-26,São Luís/MA
+110,Praia de Sabiaguaba,Fortaleza,CE,2019-09-26,Fortaleza/CE
+111,Pontal do Coruripe,Coruripe,AL,2019-09-27,Coruripe/AL
+112,Praia do Arrombado,Luís Correia,PI,2019-09-27,Luís Correia/PI
+113,Lagoa do Pau,Coruripe,AL,2019-09-27,Coruripe/AL
+114,Pontal de Maceió,Fortim,CE,2019-09-28,Fortim/CE
+115,Praia Peito de Moça,Luís Correia,PI,2019-09-30,Luís Correia/PI
+116,Praia do Coqueiro,Luís Correia,PI,2019-09-30,Luís Correia/PI
+117,Luís Correia,Luís Correia,PI,2019-09-30,Luís Correia/PI
+118,Atalaia,Luís Correia,PI,2019-09-30,Luís Correia/PI
+119,Praia do Amor,Conde,PB,2019-09-30,Conde/PB
+120,Pedra do Sal,Parnaíba,PI,2019-09-30,Parnaíba/PI
+121,Piaçabuçu,Piaçabuçu,AL,2019-10-01,Piaçabuçu/AL
+122,Santo Antônio,Mata De São João,BA,2019-10-01,Mata De São João/BA
+123,Lagoinha,Paraipaba,CE,2019-10-01,Paraipaba/CE
+124,Atalaia,Aracaju,SE,2019-10-02,Aracaju/SE
+125,Caueira,Itaporanga D'Ajuda,SE,2019-10-03,Itaporanga D'Ajuda/SE
+126,Sítio do Conde,Conde,BA,2019-10-04,Conde/BA
+127,Jandaíra,Jandaíra,BA,2019-10-04,Jandaíra/BA
+128,Mangue Seco,Jandaíra,BA,2019-10-04,Jandaíra/BA
+129,Itariri,Conde,BA,2019-10-05,Conde/BA
+130,Conde,Jandaíra,BA,2019-10-05,Jandaíra/BA
+131,Praia do Pontal do Peba (norte),Piaçabuçu,AL,2019-10-05,Piaçabuçu/AL
+132,Praia do Futuro,Fortaleza,CE,2019-10-06,Fortaleza/CE
+133,Foz do Rio Subauma,Entre Rios,BA,2019-10-07,Entre Rios/BA
+134,Mamucabo,Esplanada,BA,2019-10-07,Esplanada/BA
+135,Baixio,Esplanada,BA,2019-10-07,Esplanada/BA
+136,Foz do Rio Inhampube,Esplanada,BA,2019-10-07,Esplanada/BA
+137,Praia do Forte,Mata De São João,BA,2019-10-08,Mata De São João/BA
+138,Porto de Sauípe,Entre Rios,BA,2019-10-09,Entre Rios/BA
+139,Praia de Itacimirim,Camaçari,BA,2019-10-09,Camaçari/BA
+140,Guarajuba,Camaçari,BA,2019-10-09,Camaçari/BA
+141,Foz do Rio São Francisco,Brejo Grande,SE,2019-10-09,Brejo Grande/SE
+142,Foz do Rio São Francisco,Piaçabuçu,AL,2019-10-09,Piaçabuçu/AL
+143,Arembepe,Camaçari,BA,2019-10-10,Camaçari/BA
+144,Imbassaí,Mata De São João,BA,2019-10-10,Mata De São João/BA
+145,Ilha Caçacueira,Cururupu,MA,2019-10-10,Cururupu/MA
+146,Praia de Massarandupio,Entre Rios,BA,2019-10-11,Entre Rios/BA
+147,Praia dos Artistas,Salvador,BA,2019-10-11,Salvador/BA
+148,Praia do Corsário,Salvador,BA,2019-10-11,Salvador/BA
+149,Praia Vilas do Atlântico,Lauro De Freitas,BA,2019-10-11,Lauro De Freitas/BA
+150,Mangue,Itaporanga D'Ajuda,SE,2019-10-12,Itaporanga D'Ajuda/SE
+151,Coruripe,Coruripe,AL,2019-10-12,Coruripe/AL
+152,Ponte Gilberto Amado,Estância,SE,2019-10-12,Estância/SE
+153,Barra do Rio Santo Antônio,Barra De Santo Antônio,AL,2019-10-13,Barra De Santo Antônio/AL
+154,Ilha da Croa,Barra De Santo Antônio,AL,2019-10-13,Barra De Santo Antônio/AL
+155,Barra do Santo Antônio,Barra De Santo Antônio,AL,2019-10-13,Barra De Santo Antônio/AL
+156,Rio Pojuca,Camaçari,BA,2019-10-13,Camaçari/BA
+157,Ponta da Barra,Marechal Deodoro,AL,2019-10-13,Marechal Deodoro/AL
+158,Barreira do Boqueirão,Japaratinga,AL,2019-10-14,Japaratinga/AL
+159,Costa Azul,Jandaíra,BA,2019-10-14,Jandaíra/BA
+160,Caponga,Cascavel,CE,2019-10-14,Cascavel/CE
+161,Quixaba,Aracati,CE,2019-10-14,Aracati/CE
+162,Praia de Aruanã,Aracaju,SE,2019-10-15,Aracaju/SE
+163,Praia do Reduto,Tamandaré,PE,2019-10-15,Tamandaré/PE
+164,Praia do Antunes,Maragogi,AL,2019-10-16,Maragogi/AL
+165,Jardim de Alah,Salvador,BA,2019-10-16,Salvador/BA
+166,Praia Jardim dos Namorados,Salvador,BA,2019-10-16,Salvador/BA
+167,Pedra do Sal,Salvador,BA,2019-10-16,Salvador/BA
+168,Pituba,Salvador,BA,2019-10-16,Salvador/BA
+169,Praia de Japaratinga,Japaratinga,AL,2019-10-16,Japaratinga/AL
+170,Praia de Coroa do Meio,Aracaju,SE,2019-10-16,Aracaju/SE
+171,Mosqueiro,Aracaju,SE,2019-10-16,Aracaju/SE
+172,Barra Grande (norte),Maragogi,AL,2019-10-16,Maragogi/AL
+173,Ponta do Mangue,Maragogi,AL,2019-10-16,Maragogi/AL
+174,Barra Grande (sul),Maragogi,AL,2019-10-17,Maragogi/AL
+175,Amaralina,Salvador,BA,2019-10-17,Salvador/BA
+176,Praia da Paciência,Salvador,BA,2019-10-17,Salvador/BA
+177,Rio Vermelho,Salvador,BA,2019-10-17,Salvador/BA
+178,Praia de Jaburu,Vera Cruz,BA,2019-10-17,Vera Cruz/BA
+179,Barra Grande,Igrapiúna,BA,2019-10-18,Igrapiúna/BA
+180,Ponta da Gameleira,Sirinhaém,PE,2019-10-18,Sirinhaém/PE
+181,Praia da Peroba,Maragogi,AL,2019-10-18,Maragogi/AL
+182,Ponta das Ilhotas,Barreiros,PE,2019-10-18,Barreiros/PE
+183,Praia de Jauá,Camaçari,BA,2019-10-18,Camaçari/BA
+184,Bom Despacho,Salvador,BA,2019-10-18,Salvador/BA
+185,Caixa Prego,Vera Cruz,BA,2019-10-18,Vera Cruz/BA
+186,Ilha de Santo Aleixo,Sirinhaém,PE,2019-10-19,Sirinhaém/PE
+187,Itacaré,Itacaré,BA,2019-10-19,Itacaré/BA
+188,Ondina,Salvador,BA,2019-10-19,Salvador/BA
+189,Praia de Barra Grande,Vera Cruz,BA,2019-10-19,Vera Cruz/BA
+190,Praia de Poças,Conde,BA,2019-10-20,Conde/BA
+191,Costa do Sauípe,Mata De São João,BA,2019-10-20,Mata De São João/BA
+192,Barra dos Coqueiros,Maragogi,AL,2019-10-20,Maragogi/AL
+193,Taipu de Fora,Maraú,BA,2019-10-20,Maraú/BA
+194,Praia de Siriba,Ilhéus,BA,2019-10-20,Ilhéus/BA
+195,Praia de Flexeiras,Feliz Deserto,AL,2019-10-21,Feliz Deserto/AL
+196,Praia do Japonês,Camaçari,BA,2019-10-21,Camaçari/BA
+197,Praia Bonita,Barra De São Miguel,AL,2019-10-21,Barra De São Miguel/AL
+198,Rio Salgado,Maragogi,AL,2019-10-21,Maragogi/AL
+199,Praia de Barreiras,Icapuí,CE,2019-10-21,Icapuí/CE
+200,Praia de Ipitanga,Salvador,BA,2019-10-21,Salvador/BA
+201,Praia do Morro de Camaragibe,Passo De Camaragibe,AL,2019-10-21,Passo De Camaragibe/AL
+202,Praia de Barra de Maxaranguape,Maxaranguape,RN,2019-10-21,Maxaranguape/RN
+203,Foz do Rio Manguba,Japaratinga,AL,2019-10-21,Japaratinga/AL
+204,Praia de Bitupitá,Barroquinha,CE,2019-10-21,Barroquinha/CE
+205,Praia de Jairí,Ilhéus,BA,2019-10-21,Ilhéus/BA
+206,Praia Carnaubinhas,Touros,RN,2019-10-21,Touros/RN
+207,Praia de Burgalhau,Maragogi,AL,2019-10-21,Maragogi/AL
+208,Praia dos Milionários,Ilhéus,BA,2019-10-21,Ilhéus/BA
+209,Centro,Maragogi,AL,2019-10-21,Maragogi/AL
+210,Garapuá,Cairu,BA,2019-10-22,Cairu/BA
+211,Barra do Jacuípe,Camaçari,BA,2019-10-22,Camaçari/BA
+212,Lagoa Azeda,Jequiá Da Praia,AL,2019-10-22,Jequiá Da Praia/AL
+213,Acuípe,Ilhéus,BA,2019-10-22,Ilhéus/BA
+214,Praia de Pitangui,Extremoz,RN,2019-10-22,Extremoz/RN
+215,Foz do rio Tatuamunha,Porto De Pedras,AL,2019-10-22,Porto De Pedras/AL
+216,Canoa Quebrada,Aracati,CE,2019-10-23,Aracati/CE
+217,Praia de Tabatinga,Conde,PB,2019-10-23,Conde/PB
+218,Praia de Rendinha Nova,Extremoz,RN,2019-10-23,Extremoz/RN
+219,Praia do Camacho,Maragogi,AL,2019-10-23,Maragogi/AL
+220,Praia de Saquaíra,Maraú,BA,2019-10-24,Maraú/BA
+221,Praia do Garcez,Jaguaripe,BA,2019-10-24,Jaguaripe/BA
+222,Praia da Enseada dos Corais,Cabo De Santo Agostinho,PE,2019-10-24,Cabo De Santo Agostinho/PE
+223,Praia de Jaguaribe,Ilha De Itamaracá,PE,2019-10-24,Ilha De Itamaracá/PE
+224,Praia da Armação,Salvador,BA,2019-10-24,Salvador/BA
+225,Barra da Jangada,Jaboatão Dos Guararapes,PE,2019-10-24,Jaboatão Dos Guararapes/PE
+226,Praia de Guaibim,Valença,BA,2019-10-24,Valença/BA
+227,Praia de Cacimbinhas,Tibau Do Sul,RN,2019-10-24,Tibau Do Sul/RN
+228,Praia de Busca Vida,Camaçari,BA,2019-10-24,Camaçari/BA
+229,Praia de Gaibu,Cabo De Santo Agostinho,PE,2019-10-24,Cabo De Santo Agostinho/PE
+230,Praia de Itapuama,Cabo De Santo Agostinho,PE,2019-10-24,Cabo De Santo Agostinho/PE
+231,Praia do Gado Bravo,Tibau,RN,2019-10-25,Tibau/RN
+232,Barra dos Carvalhos,Nilo Peçanha,BA,2019-10-25,Nilo Peçanha/BA
+233,Praia de Bainema,Cairu,BA,2019-10-25,Cairu/BA
+234,Praia de Guaxuma,Maceió,AL,2019-10-25,Maceió/AL
+235,Pontal do Jaguaribe,Ilha De Itamaracá,PE,2019-10-25,Ilha De Itamaracá/PE
+236,Praia de Quatro Cantos,Ilha De Itamaracá,PE,2019-10-25,Ilha De Itamaracá/PE
+237,Praia da Barra Nova,Cascavel,CE,2019-10-25,Cascavel/CE
+238,Praia de Muro Alto,Ipojuca,PE,2019-10-25,Ipojuca/PE
+239,Praia da Barra de Sirinhaém,Sirinhaém,PE,2019-10-25,Sirinhaém/PE
+240,Sirinhaém,Ituberá,BA,2019-10-26,Ituberá/BA
+241,Praia de São Miguel,Ilhéus,BA,2019-10-26,Ilhéus/BA
+242,Praia do Marceneiro,Passo De Camaragibe,AL,2019-10-26,Passo De Camaragibe/AL
+243,Cumbe,Aracati,CE,2019-10-26,Aracati/CE
+244,Praia do Pontal,Cairu,BA,2019-10-27,Cairu/BA
+245,Nossa Senhora do Ó,Paulista,PE,2019-10-27,Paulista/PE
+246,Praia do Pontal,Baía Formosa,RN,2019-10-27,Baía Formosa/RN
+247,Praia de Cururupe,Ilhéus,BA,2019-10-27,Ilhéus/BA
+248,Praia de Porto Mirim,Ceará-Mirim,RN,2019-10-27,Ceará-Mirim/RN
+249,Praia Engenhoca,Itacaré,BA,2019-10-28,Itacaré/BA
+250,Praia de Cueira,Cairu,BA,2019-10-28,Cairu/BA
+251,Praia de Bitingui,Japaratinga,AL,2019-10-28,Japaratinga/AL
+252,Praia do Pontal do Boqueirão,Japaratinga,AL,2019-10-28,Japaratinga/AL
+253,Praia Pé de Serra,Ilhéus,BA,2019-10-28,Ilhéus/BA
+254,Várzea do Una,Barreiros,PE,2019-10-28,Barreiros/PE
+255,Praia do Sossego,Ilha De Itamaracá,PE,2019-10-28,Ilha De Itamaracá/PE
+256,Praia do Pontal de Maracaípe,Ipojuca,PE,2019-10-28,Ipojuca/PE
+257,Praia de Graçandu,Extremoz,RN,2019-10-28,Extremoz/RN
+258,Praia do Madeiro,Tibau Do Sul,RN,2019-10-28,Tibau Do Sul/RN
+259,Praia de Ponta da Tulha,Ilhéus,BA,2019-10-28,Ilhéus/BA
+260,Praia do Sul,Ilhéus,BA,2019-10-28,Ilhéus/BA
+261,Praia de Moreré,Cairu,BA,2019-10-28,Cairu/BA
+262,Praia de Siribinha,Conde,BA,2019-10-29,Conde/BA
+263,Rio Persinunga,Maragogi,AL,2019-10-29,Maragogi/AL
+264,Praia do Cupe,Ipojuca,PE,2019-10-29,Ipojuca/PE
+265,Mangue da Foz do Rio Coruripe,Coruripe,AL,2019-10-29,Coruripe/AL
+266,Praia dos Náufragos,Aracaju,SE,2019-10-29,Aracaju/SE
+267,Praia dos Artistas,Aracaju,SE,2019-10-29,Aracaju/SE
+268,Praia da Ponta do Ramo,Ilhéus,BA,2019-10-29,Ilhéus/BA
+269,Praia da Avenida,Ilhéus,BA,2019-10-29,Ilhéus/BA
+270,Praia do Porto,Barreiros,PE,2019-10-29,Barreiros/PE
+271,Ponta do Contrato,Ituberá,BA,2019-10-29,Ituberá/BA
+272,Praia de Porto da Rua,São Miguel Dos Milagres,AL,2019-10-29,São Miguel Dos Milagres/AL
+273,Praia de Barra Velha,Belmonte,BA,2019-10-29,Belmonte/BA
+274,Arandi-Algodões,Maraú,BA,2019-10-29,Maraú/BA
+275,Praia do Pontal,Parnaíba,PI,2019-10-29,Parnaíba/PI
+276,Praia da Ribeira,Itacaré,BA,2019-10-30,Itacaré/BA
+277,Ilha de Comandatuba (Barra Norte e Barra Sul),Una,BA,2019-10-30,Una/BA
+278,Lagoa Guaraíras,Tibau Do Sul,RN,2019-10-30,Tibau Do Sul/RN
+279,Praia de Itapororoca,Porto Seguro,BA,2019-10-31,Porto Seguro/BA
+280,Praia de Mucugê,Porto Seguro,BA,2019-10-31,Porto Seguro/BA
+281,Trancoso Itapororó,Porto Seguro,BA,2019-10-31,Porto Seguro/BA
+282,Ilha do Francês/Suape,Ipojuca,PE,2019-10-31,Ipojuca/PE
+283,Praia de Piracanga,Maraú,BA,2019-10-31,Maraú/BA
+284,Praia Jóia do Atlântico,Ilhéus,BA,2019-10-31,Ilhéus/BA
+285,Ponta da Folha,Maraú,BA,2019-10-31,Maraú/BA
+286,Praia da Ponta dos Castelhanos,Cairu,BA,2019-10-31,Cairu/BA
+287,Praia de Arakakaí,Santa Cruz Cabrália,BA,2019-10-31,Santa Cruz Cabrália/BA
+288,Panelas,Maraú,BA,2019-10-31,Maraú/BA
+289,Praia Jóia do Atlântico,Ilhéus,BA,2019-10-31,Ilhéus/BA
+290,Praia de Maragogi,Maragogi,AL,2019-11-01,Maragogi/AL
+291,Praia do Pontal,Itacaré,BA,2019-11-01,Itacaré/BA
+292,Praia do Casssange,Maraú,BA,2019-11-01,Maraú/BA
+293,Araripe,Santa Cruz Cabrália,BA,2019-11-01,Santa Cruz Cabrália/BA
+294,Praia de Corumbau,Prado,BA,2019-11-01,Prado/BA
+295,Praia da Boca da Barra,Tamandaré,PE,2019-11-01,Tamandaré/PE
+296,Ilha Quiepe,Igrapiúna,BA,2019-11-01,Igrapiúna/BA
+297,Praia da Coroinha,Itacaré,BA,2019-11-01,Itacaré/BA
+298,Praia de Quitérias,Icapuí,CE,2019-11-01,Icapuí/CE
+299,Praia da Ponta da Baleia,Caravelas,BA,2019-11-01,Caravelas/BA
+300,Praia de Stella Maris,Salvador,BA,2019-11-01,Salvador/BA
+301,Praia de Guaiu,Belmonte,BA,2019-11-01,Belmonte/BA
+302,Praia de Malembá,Senador Georgino Avelino,RN,2019-11-01,Senador Georgino Avelino/RN
+303,Manguezal do rio Maragogi,Maragogi,AL,2019-11-01,Maragogi/AL
+304,Praia de Lages,Porto De Pedras,AL,2019-11-01,Porto De Pedras/AL
+305,Praia de Itaquena,Porto Seguro,BA,2019-11-02,Porto Seguro/BA
+306,Praia do Taipe (Praia do Rio da Barra),Porto Seguro,BA,2019-11-02,Porto Seguro/BA
+307,Praia do Saco (2),Estância,SE,2019-11-02,Estância/SE
+308,Moreré,Cairu,BA,2019-11-02,Cairu/BA
+309,Ilha de Santa Bárbara,Caravelas,BA,2019-11-02,Caravelas/BA
+310,Praia Berlinque,Vera Cruz,BA,2019-11-02,Vera Cruz/BA
+311,Praia do Mar Moreno,Belmonte,BA,2019-11-02,Belmonte/BA
+312,Praia de Alcobaça (Praia do Centro),Alcobaça,BA,2019-11-02,Alcobaça/BA
+313,Praia do Porto,Barra Dos Coqueiros,SE,2019-11-03,Barra Dos Coqueiros/SE
+314,Quarta Praia,Cairu,BA,2019-11-03,Cairu/BA
+315,Praia da Costa,Barra Dos Coqueiros,SE,2019-11-03,Barra Dos Coqueiros/SE
+316,Praia de Japaratinga,Japaratinga,AL,2019-11-03,Japaratinga/AL
+317,Praia do Grauçá,Caravelas,BA,2019-11-03,Caravelas/BA
+318,Costa do atlantico,Nova Viçosa,BA,2019-11-03,Nova Viçosa/BA
+319,Tecarmo,Aracaju,SE,2019-11-03,Aracaju/SE
+320,Praia do quartel,Ilhéus,BA,2019-11-03,Ilhéus/BA
+321,Praia do Pontal da Barra,Nova Viçosa,BA,2019-11-03,Nova Viçosa/BA
+322,Praia de Lençóis,Ilhéus,BA,2019-11-03,Ilhéus/BA
+323,São Domingos,Ilhéus,BA,2019-11-03,Ilhéus/BA
+324,Praia de Peroba,Maragogi,AL,2019-11-03,Maragogi/AL
+325,Praia de Barreta,Nísia Floresta,RN,2019-11-03,Nísia Floresta/RN
+326,Praia de Taperapuã,Porto Seguro,BA,2019-11-04,Porto Seguro/BA
+327,Ilha Redonda (abrolhos),Caravelas,BA,2019-11-04,Caravelas/BA
+328,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-04,Itaporanga D'Ajuda/SE
+329,Praia de Aibim,Maraú,BA,2019-11-04,Maraú/BA
+330,Dunas (norte),Estância,SE,2019-11-04,Estância/SE
+331,Praia de Mogiquiçaba,Belmonte,BA,2019-11-04,Belmonte/BA
+332,Praia de Guaratiba,Prado,BA,2019-11-04,Prado/BA
+333,Praia de Mamoã,Ilhéus,BA,2019-11-04,Ilhéus/BA
+334,Praia de Pontal do Peba (sul),Piaçabuçu,AL,2019-11-04,Piaçabuçu/AL
+335,Praia de Cambôa,Ipojuca,PE,2019-11-04,Ipojuca/PE
+336,Praia de Porto de Galinhas,Ipojuca,PE,2019-11-04,Ipojuca/PE
+337,Praia de Muro Alto,Ipojuca,PE,2019-11-04,Ipojuca/PE
+338,Praia de Arakakaí,Santa Cruz Cabrália,BA,2019-11-04,Santa Cruz Cabrália/BA
+339,Praia da Barra da Jangada,Jaboatão Dos Guararapes,PE,2019-11-04,Jaboatão Dos Guararapes/PE
+340,Barra do Rio Pirangi,Beberibe,CE,2019-11-04,Beberibe/CE
+341,Dunas (sul),Estância,SE,2019-11-04,Estância/SE
+342,Praia da Barra (Novo Prado),Prado,BA,2019-11-04,Prado/BA
+343,Praia de Búzios,Nísia Floresta,RN,2019-11-05,Nísia Floresta/RN
+344,Praia da Barra de Sucatinga,Beberibe,CE,2019-11-05,Beberibe/CE
+345,Praia do Diogo,Beberibe,CE,2019-11-05,Beberibe/CE
+346,Praia de Barra de Tabatinga,Nísia Floresta,RN,2019-11-05,Nísia Floresta/RN
+347,Praia de Flexeiras,Feliz Deserto,AL,2019-11-05,Feliz Deserto/AL
+348,Ilha dos Namorados,Aracaju,SE,2019-11-05,Aracaju/SE
+349,Praia do Boqueirão,Japaratinga,AL,2019-11-05,Japaratinga/AL
+350,Praia de Guaibim,Valença,BA,2019-11-05,Valença/BA
+351,Ilha da Costinha,Brejo Grande,SE,2019-11-05,Brejo Grande/SE
+352,Praia de Atalaia (Barra Sul de Canavieiras),Canavieiras,BA,2019-11-05,Canavieiras/BA
+353,Quinta Praia (Praia do Encanto),Cairu,BA,2019-11-05,Cairu/BA
+354,Praia do Cabeço,Brejo Grande,SE,2019-11-05,Brejo Grande/SE
+355,Praia de Pratigi,Ituberá,BA,2019-11-05,Ituberá/BA
+356,Praia do Mosqueiro,Aracaju,SE,2019-11-05,Aracaju/SE
+357,Praia de Almofala,Itarema,CE,2019-11-05,Itarema/CE
+358,Praia de Barreta,Senador Georgino Avelino,RN,2019-11-05,Senador Georgino Avelino/RN
+359,Praia de Cumbuco,Caucaia,CE,2019-11-05,Caucaia/CE
+360,Praia Angra de Ipioca,Maceió,AL,2019-11-05,Maceió/AL
+361,Praia de Campina,Cabedelo,PB,2019-11-06,Cabedelo/PB
+362,Praia do Barramar,Barra De São Miguel,AL,2019-11-06,Barra De São Miguel/AL
+363,Praia de Peroba,Maragogi,AL,2019-11-06,Maragogi/AL
+364,Praia de Piatã,Salvador,BA,2019-11-06,Salvador/BA
+365,Praia do Contrato,Igrapiúna,BA,2019-11-06,Igrapiúna/BA
+366,Praia do Contrato,Igrapiúna,BA,2019-11-06,Igrapiúna/BA
+367,Praia de Bitingui,Japaratinga,AL,2019-11-06,Japaratinga/AL
+368,Praia dos Lençóis Maranhenses,Santo Amaro Do Maranhão,MA,2019-11-06,Santo Amaro Do Maranhão/MA
+369,Praia da Barra (Praia Zeloris),Alcobaça,BA,2019-11-06,Alcobaça/BA
+370,Praia de Dona Dinha,Alcobaça,BA,2019-11-06,Alcobaça/BA
+371,Costa do Atlântico,Nova Viçosa,BA,2019-11-06,Nova Viçosa/BA
+372,Quarta Praia,Cairu,BA,2019-11-06,Cairu/BA
+373,Ilha de Comandatuba (Barra Norte e Barra Sul),Una,BA,2019-11-06,Una/BA
+374,Praia de Aruanã,Aracaju,SE,2019-11-06,Aracaju/SE
+375,Praia do Centro,Prado,BA,2019-11-06,Prado/BA
+376,Praia da Barra de Sirinhaém,Sirinhaém,PE,2019-11-06,Sirinhaém/PE
+377,Praia de Guaiamum,Sirinhaém,PE,2019-11-06,Sirinhaém/PE
+378,Foz do Rio Manguaba,Porto De Pedras,AL,2019-11-06,Porto De Pedras/AL
+379,Praia do Bessa,João Pessoa,PB,2019-11-06,João Pessoa/PB
+380,Guriri,São Mateus,ES,2019-11-07,São Mateus/ES
+381,Praia do Saco,Estância,SE,2019-11-07,Estância/SE
+382,Praia de Zumbi,Rio Do Fogo,RN,2019-11-07,Rio Do Fogo/RN
+383,Praia de Flexeiras,Feliz Deserto,AL,2019-11-07,Feliz Deserto/AL
+384,Praia de Jenipabu,Extremoz,RN,2019-11-07,Extremoz/RN
+385,Molhes da praia da Coroa do Meio,Aracaju,SE,2019-11-07,Aracaju/SE
+386,Praia de Pratigi,Ituberá,BA,2019-11-07,Ituberá/BA
+387,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-07,Itaporanga D'Ajuda/SE
+388,"Miai de cima, miai de baixo - Coruripe e praia do Toco - feliz deserto",Coruripe,AL,2019-11-07,Coruripe/AL
+389,Praia de Massarandupió,Entre Rios,BA,2019-11-07,Entre Rios/BA
+390,PORTO SAUIPE,Entre Rios,BA,2019-11-07,Entre Rios/BA
+391,Rio Manguaba,Porto De Pedras,AL,2019-11-07,Porto De Pedras/AL
+392,Praia Pirambu,Pirambu,SE,2019-11-07,Pirambu/SE
+393,Praia de Guaibim,Valença,BA,2019-11-07,Valença/BA
+394,Praia do Resende,Itacaré,BA,2019-11-07,Itacaré/BA
+395,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-07,Itaporanga D'Ajuda/SE
+396,Praia da Costa,Canavieiras,BA,2019-11-07,Canavieiras/BA
+397,Praia da Ponta dos Mangues,Pirambu,SE,2019-11-07,Pirambu/SE
+398,Pontas dos Mangues,Pacatuba,SE,2019-11-07,Pacatuba/SE
+399,Praia do Marciano,Ilhéus,BA,2019-11-07,Ilhéus/BA
+400,Praia de São Miguel,Ilhéus,BA,2019-11-07,Ilhéus/BA
+401,Praia da Pedra,Sirinhaém,PE,2019-11-07,Sirinhaém/PE
+402,Praia de Olivença,Ilhéus,BA,2019-11-07,Ilhéus/BA
+403,Praia dos Milionários,Ilhéus,BA,2019-11-07,Ilhéus/BA
+404,Terceira Praia,Cairu,BA,2019-11-07,Cairu/BA
+405,Praia do Peba,Piaçabuçu,AL,2019-11-07,Piaçabuçu/AL
+406,Praia da Concha,Itacaré,BA,2019-11-08,Itacaré/BA
+407,Praia de Siribinha,Entre Rios,BA,2019-11-08,Entre Rios/BA
+408,Praia do Sagi,Baía Formosa,RN,2019-11-08,Baía Formosa/RN
+409,Praia de Aruanã,Aracaju,SE,2019-11-08,Aracaju/SE
+410,Praia do Mosqueiro,Aracaju,SE,2019-11-08,Aracaju/SE
+411,Porto do Sauipe - Cond. Águas de Sauipe,Entre Rios,BA,2019-11-08,Entre Rios/BA
+412,Praia da Barra Nova,São Mateus,ES,2019-11-08,São Mateus/ES
+413,Praia de Lençóis,Una,BA,2019-11-08,Una/BA
+414,Praia de Saquaíra,Maraú,BA,2019-11-08,Maraú/BA
+415,Praia dos Corais,Alcobaça,BA,2019-11-08,Alcobaça/BA
+416,Praia do quati,Alcobaça,BA,2019-11-08,Alcobaça/BA
+417,Praia de Cururupe,Ilhéus,BA,2019-11-08,Ilhéus/BA
+418,Praia de Cumuruxatiba,Prado,BA,2019-11-08,Prado/BA
+419,Praia de Cumuruxatiba,Prado,BA,2019-11-08,Prado/BA
+420,Praia do Pontal,Ilha Grande,PI,2019-11-08,Ilha Grande/PI
+421,Praia dos Coqueiros,Alcobaça,BA,2019-11-08,Alcobaça/BA
+422,Praia de Mundaú,Trairi,CE,2019-11-08,Trairi/CE
+423,Praia da Paixão,Prado,BA,2019-11-08,Prado/BA
+424,Praia de Guaibim,Itaparica,BA,2019-11-08,Itaparica/BA
+425,Praia de Guriri,São Mateus,ES,2019-11-09,São Mateus/ES
+426,Praia Pé de Serra,Uruçuca,BA,2019-11-09,Uruçuca/BA
+427,Praia do cemitério,Uruçuca,BA,2019-11-09,Uruçuca/BA
+428,Praia de Jatobá,Barra Dos Coqueiros,SE,2019-11-09,Barra Dos Coqueiros/SE
+429,Praia de Sabiaguaba,Fortaleza,CE,2019-11-09,Fortaleza/CE
+430,Poças e Siribinha até a foz do Rio Itapicuru,Conde,BA,2019-11-09,Conde/BA
+431,Praia Pontal da Barra,Barra Dos Coqueiros,SE,2019-11-09,Barra Dos Coqueiros/SE
+432,Praia de Guaiu,Santa Cruz Cabrália,BA,2019-11-09,Santa Cruz Cabrália/BA
+433,Praia de Pratigi,Ituberá,BA,2019-11-09,Ituberá/BA
+434,Praia do Casssange,Maraú,BA,2019-11-09,Maraú/BA
+435,Praia de Barramares,Ilhéus,BA,2019-11-09,Ilhéus/BA
+436,Praia da Amendoeira,Prado,BA,2019-11-09,Prado/BA
+437,Praia de Guaratiba,Prado,BA,2019-11-09,Prado/BA
+438,Praia de Back Door,Ilhéus,BA,2019-11-09,Ilhéus/BA
+439,Praia de Batuba,Ilhéus,BA,2019-11-09,Ilhéus/BA
+440,Praia de Urussuquara,São Mateus,ES,2019-11-09,São Mateus/ES
+441,Praia de Cueira,Cairu,BA,2019-11-09,Cairu/BA
+442,Praia do Poxim,Canavieiras,BA,2019-11-09,Canavieiras/BA
+443,Praia de Tassimirim,Cairu,BA,2019-11-09,Cairu/BA
+444,Praia Pirambu,Pirambu,SE,2019-11-09,Pirambu/SE
+445,Praia de São Domingos,Ilhéus,BA,2019-11-09,Ilhéus/BA
+446,Praia de Tassimirim,Cairu,BA,2019-11-09,Cairu/BA
+447,Praia do Centro,Prado,BA,2019-11-09,Prado/BA
+448,Praia de Urussuquara,São Mateus,ES,2019-11-09,São Mateus/ES
+449,Boa Viagem,Estância,SE,2019-11-10,Estância/SE
+450,Primeira Praia,Cairu,BA,2019-11-10,Cairu/BA
+451,Praia do Pontal do Ipiranga,Linhares,ES,2019-11-10,Linhares/ES
+452,Praia do Pontal do Ipiranga,Linhares,ES,2019-11-10,Linhares/ES
+453,Barra do Guaju,Baía Formosa,RN,2019-11-10,Baía Formosa/RN
+454,Praia de Icarai de Amontada,Amontada,CE,2019-11-10,Amontada/CE
+455,Espraiado,Acaraú,CE,2019-11-10,Acaraú/CE
+456,Ponta dos Tubarões,Igrapiúna,BA,2019-11-10,Igrapiúna/BA
+457,Praia do Abaís,Estância,SE,2019-11-10,Estância/SE
+458,Praia de Siribinha,Conde,BA,2019-11-10,Conde/BA
+459,Praia de Barra de Tabatinga,Nísia Floresta,RN,2019-11-10,Nísia Floresta/RN
+460,Praia de Malembá,Nísia Floresta,RN,2019-11-10,Nísia Floresta/RN
+461,Ilha dos Poldros,Araioses,MA,2019-11-10,Araioses/MA
+462,Praia do Paiva,Cabo De Santo Agostinho,PE,2019-11-10,Cabo De Santo Agostinho/PE
+463,Praia de Saquaíra,Maraú,BA,2019-11-10,Maraú/BA
+464,Praia do Quati,Prado,BA,2019-11-10,Prado/BA
+465,Praia do Pontal,Cairu,BA,2019-11-10,Cairu/BA
+466,Praia de Guaiu,Santa Cruz Cabrália,BA,2019-11-10,Santa Cruz Cabrália/BA
+467,Praia da Barra Nova,São Mateus,ES,2019-11-10,São Mateus/ES
+468,Praia de Cumuruxatiba,Prado,BA,2019-11-10,Prado/BA
+469,Praia de Mogiquiçaba,Santa Cruz Cabrália,BA,2019-11-10,Santa Cruz Cabrália/BA
+470,Praia do Grauçá,Caravelas,BA,2019-11-10,Caravelas/BA
+471,Praia de Povoação,Linhares,ES,2019-11-10,Linhares/ES
+472,Praia de Barra Seca,Linhares,ES,2019-11-10,Linhares/ES
+473,Praia de Urussuquara,São Mateus,ES,2019-11-10,São Mateus/ES
+474,Praia da Barra do Cauípe,Caucaia,CE,2019-11-10,Caucaia/CE
+475,Praia de Pecém,São Gonçalo Do Amarante,CE,2019-11-10,São Gonçalo Do Amarante/CE
+476,Praia do Saco,Estância,SE,2019-11-11,Estância/SE
+477,Praia das Minas,Tibau Do Sul,RN,2019-11-11,Tibau Do Sul/RN
+478,Praia de Itaúnas,Conceição Da Barra,ES,2019-11-11,Conceição Da Barra/ES
+479,Praia de Muro Alto,Ipojuca,PE,2019-11-11,Ipojuca/PE
+480,Praia da Barra Nova,São Mateus,ES,2019-11-11,São Mateus/ES
+481,Praia de Urussuquara,São Mateus,ES,2019-11-11,São Mateus/ES
+482,Praia do Toco,Feliz Deserto,AL,2019-11-11,Feliz Deserto/AL
+483,Praia de Mangue Seco,Jandaíra,BA,2019-11-11,Jandaíra/BA
+484,Praia de Jatobá,Barra Dos Coqueiros,SE,2019-11-11,Barra Dos Coqueiros/SE
+485,Praia Atalaia Nova,Barra Dos Coqueiros,SE,2019-11-11,Barra Dos Coqueiros/SE
+486,Praia da Barra do Albino,Canavieiras,BA,2019-11-11,Canavieiras/BA
+487,Praia da Costa,Canavieiras,BA,2019-11-11,Canavieiras/BA
+488,Praia de Três Coqueiros (Praia de Bombaça),Maraú,BA,2019-11-11,Maraú/BA
+489,Praia de Taipus de Fora,Maraú,BA,2019-11-11,Maraú/BA
+490,Praia de Gaibu,Cabo De Santo Agostinho,PE,2019-11-11,Cabo De Santo Agostinho/PE
+491,Praia Havaizinho,Itacaré,BA,2019-11-11,Itacaré/BA
+492,Praia de Japara Grande,Prado,BA,2019-11-11,Prado/BA
+493,Praia da Barra Nova,São Mateus,ES,2019-11-11,São Mateus/ES
+494,Praia da Barra Nova,São Mateus,ES,2019-11-11,São Mateus/ES
+495,Praia da Barra Nova,São Mateus,ES,2019-11-11,São Mateus/ES
+496,Praia de Pontal do Peba,Piaçabuçu,AL,2019-11-11,Piaçabuçu/AL
+497,Praia Formosa,Aracruz,ES,2019-11-11,Aracruz/ES
+498,Praia da Costa,Canavieiras,BA,2019-11-11,Canavieiras/BA
+499,Praia Itacarezinho,Itacaré,BA,2019-11-11,Itacaré/BA
+500,Praia de Regência,Linhares,ES,2019-11-11,Linhares/ES
+501,Praia do Meio,Natal,RN,2019-11-11,Natal/RN
+502,Praia de Jairi,Ilhéus,BA,2019-11-11,Ilhéus/BA
+503,Praia do Degredo,Linhares,ES,2019-11-11,Linhares/ES
+504,Praia de Canabrava,Ilhéus,BA,2019-11-11,Ilhéus/BA
+505,Praia do Paiva,Cabo De Santo Agostinho,PE,2019-11-11,Cabo De Santo Agostinho/PE
+506,Praia de Bainema,Cairu,BA,2019-11-11,Cairu/BA
+507,Praia da Costa,Canavieiras,BA,2019-11-12,Canavieiras/BA
+508,Praia de Búzios,Nísia Floresta,RN,2019-11-12,Nísia Floresta/RN
+509,Praia de Camurupim,Nísia Floresta,RN,2019-11-12,Nísia Floresta/RN
+510,Praia da Ponta do Ramo,Uruçuca,BA,2019-11-12,Uruçuca/BA
+511,Praia Pé de Serra,Uruçuca,BA,2019-11-12,Uruçuca/BA
+512,Praia de Jatobá,Barra Dos Coqueiros,SE,2019-11-12,Barra Dos Coqueiros/SE
+513,Praia de Jatobá,Barra Dos Coqueiros,SE,2019-11-12,Barra Dos Coqueiros/SE
+514,Praia de Itaúnas,Conceição Da Barra,ES,2019-11-12,Conceição Da Barra/ES
+515,Praia Pontal do Maceió,Fortim,CE,2019-11-12,Fortim/CE
+516,Praia de Três Coqueiros (Praia de Bombaça),Maraú,BA,2019-11-12,Maraú/BA
+517,Praia de Pratigi,Ituberá,BA,2019-11-12,Ituberá/BA
+518,São Domingos,Ilhéus,BA,2019-11-12,Ilhéus/BA
+519,Praia Costa Azul,Jandaíra,BA,2019-11-12,Jandaíra/BA
+520,Praia de Corumbau,Prado,BA,2019-11-12,Prado/BA
+521,Segunda Praia,Cairu,BA,2019-11-12,Cairu/BA
+522,Praia da Cinelândia,Aracaju,SE,2019-11-12,Aracaju/SE
+523,Praia do Bosque,São Mateus,ES,2019-11-12,São Mateus/ES
+524,Praia de Lençóis,Una,BA,2019-11-12,Una/BA
+525,Praia de Guriri,São Mateus,ES,2019-11-13,São Mateus/ES
+526,Praia do Pontal do Ipiranga,Linhares,ES,2019-11-13,Linhares/ES
+527,Praia do Taboado,Jequiá Da Praia,AL,2019-11-13,Jequiá Da Praia/AL
+528,Praia de Flexeiras,Feliz Deserto,AL,2019-11-13,Feliz Deserto/AL
+529,Praia de Itaúnas,Conceição Da Barra,ES,2019-11-13,Conceição Da Barra/ES
+530,Sarney,Aracaju,SE,2019-11-13,Aracaju/SE
+531,Praia de Pratigi,Ituberá,BA,2019-11-13,Ituberá/BA
+532,Praia da Boa viagem,Estância,SE,2019-11-13,Estância/SE
+533,Dunas,Estância,SE,2019-11-13,Estância/SE
+534,Praia da Costa Dourada,Mucuri,BA,2019-11-13,Mucuri/BA
+535,Praia da Subauma,Entre Rios,BA,2019-11-13,Entre Rios/BA
+536,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-13,Conceição Da Barra/ES
+537,Praia de Taipus de Fora,Maraú,BA,2019-11-13,Maraú/BA
+538,Praia do Taboado,Roteiro,AL,2019-11-13,Roteiro/AL
+539,Praia Patizeiro,Itacaré,BA,2019-11-13,Itacaré/BA
+540,Aritaguá,Ilhéus,BA,2019-11-13,Ilhéus/BA
+541,Praia Pirambu,Pirambu,SE,2019-11-13,Pirambu/SE
+542,Praia do Me Ache,Ilhéus,BA,2019-11-13,Ilhéus/BA
+543,Praia de Alcobaça (Praia do Centro),Alcobaça,BA,2019-11-13,Alcobaça/BA
+544,Praia do Bosque,São Mateus,ES,2019-11-13,São Mateus/ES
+545,Praia do Malhado,Ilhéus,BA,2019-11-13,Ilhéus/BA
+546,Praia de Urussuquara,São Mateus,ES,2019-11-13,São Mateus/ES
+547,Porto do Campo,Igrapiúna,BA,2019-11-13,Igrapiúna/BA
+548,Praia de Mucuri,Mucuri,BA,2019-11-13,Mucuri/BA
+549,Praia de Atalaia,Aracaju,SE,2019-11-13,Aracaju/SE
+550,Praia do Gunga,Roteiro,AL,2019-11-13,Roteiro/AL
+551,Arandi-Algodões,Maraú,BA,2019-11-13,Maraú/BA
+552,Praia Pirambu,Pirambu,SE,2019-11-13,Pirambu/SE
+553,Praia de Jeribucaçu,Itacaré,BA,2019-11-13,Itacaré/BA
+554,Praia da Ponta dos Mangues,Pirambu,SE,2019-11-13,Pirambu/SE
+555,Praia de Malembá,Senador Georgino Avelino,RN,2019-11-13,Senador Georgino Avelino/RN
+556,Praia da Tabuba,Barra De Santo Antônio,AL,2019-11-13,Barra De Santo Antônio/AL
+557,Praia de São Miguel,Ilhéus,BA,2019-11-13,Ilhéus/BA
+558,Praia do Cristo,Ilhéus,BA,2019-11-13,Ilhéus/BA
+559,Praia do Cristo,Ilhéus,BA,2019-11-13,Ilhéus/BA
+560,Ilha de Santana,Humberto De Campos,MA,2019-11-13,Humberto De Campos/MA
+561,Praia de Guriri,São Mateus,ES,2019-11-14,São Mateus/ES
+562,Eco Village,Itacaré,BA,2019-11-14,Itacaré/BA
+563,Praia da Lagoa Azeda,Jequiá Da Praia,AL,2019-11-14,Jequiá Da Praia/AL
+564,Praia de Itaúnas,Conceição Da Barra,ES,2019-11-14,Conceição Da Barra/ES
+565,Ponta do Contrato,Igrapiúna,BA,2019-11-14,Igrapiúna/BA
+566,Praia do Mosqueiro,Aracaju,SE,2019-11-14,Aracaju/SE
+567,Praia de Itapororoca,Una,BA,2019-11-14,Una/BA
+568,Praia de Guriri,São Mateus,ES,2019-11-14,São Mateus/ES
+569,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-14,Conceição Da Barra/ES
+570,Praia de Iansã,Alcobaça,BA,2019-11-14,Alcobaça/BA
+571,Praia dos Náufragos,Aracaju,SE,2019-11-14,Aracaju/SE
+572,Praia de Atalaia,Aracaju,SE,2019-11-14,Aracaju/SE
+573,Praia de Regência,Linhares,ES,2019-11-14,Linhares/ES
+574,Praia do Centro,Prado,BA,2019-11-14,Prado/BA
+575,Barra de Jacuípe,Camaçari,BA,2019-11-14,Camaçari/BA
+576,Praia dos Náufragos,Aracaju,SE,2019-11-14,Aracaju/SE
+577,Praia dos Náufragos,Aracaju,SE,2019-11-14,Aracaju/SE
+578,Praia de Cumuruxatiba,Prado,BA,2019-11-14,Prado/BA
+579,Praia de Urussuquara,São Mateus,ES,2019-11-14,São Mateus/ES
+580,APA de Piaçabuçu - Dunas,Piaçabuçu,AL,2019-11-14,Piaçabuçu/AL
+581,Barra de Peso e praia do Joabe,Belmonte,BA,2019-11-14,Belmonte/BA
+582,Rio do peixe grande,Prado,BA,2019-11-14,Prado/BA
+583,Praia de Monsarás,Linhares,ES,2019-11-14,Linhares/ES
+584,Praia de Cururupe,Ilhéus,BA,2019-11-14,Ilhéus/BA
+585,Prainha,Itacaré,BA,2019-11-14,Itacaré/BA
+586,Dunas,Estância,SE,2019-11-15,Estância/SE
+587,Praia de Sabiaguaba,Fortaleza,CE,2019-11-15,Fortaleza/CE
+588,Praia de Atalaia,Luís Correia,PI,2019-11-15,Luís Correia/PI
+589,Barra do Cunhaú,Canguaretama,RN,2019-11-15,Canguaretama/RN
+590,Praia do Cabeço,Brejo Grande,SE,2019-11-15,Brejo Grande/SE
+591,Praia da Boca da Barra,Tamandaré,PE,2019-11-15,Tamandaré/PE
+592,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-15,Itaporanga D'Ajuda/SE
+593,Praia do Miai de Baixo,Coruripe,AL,2019-11-15,Coruripe/AL
+594,Praia do Toco,Feliz Deserto,AL,2019-11-15,Feliz Deserto/AL
+595,Praia do Cabeço,Brejo Grande,SE,2019-11-15,Brejo Grande/SE
+596,Ilha do Delta do Jequitinhonha,Belmonte,BA,2019-11-15,Belmonte/BA
+597,Praia do Costinha (Ilha do Funil),Brejo Grande,SE,2019-11-15,Brejo Grande/SE
+598,Praia de Guriri,São Mateus,ES,2019-11-15,São Mateus/ES
+599,Praia do Rio do Peixe,Prado,BA,2019-11-15,Prado/BA
+600,Praia dos Coqueiros,Porto Seguro,BA,2019-11-15,Porto Seguro/BA
+601,Praia de Ponta da Tulha,Ilhéus,BA,2019-11-15,Ilhéus/BA
+602,Aritagua,Ilhéus,BA,2019-11-15,Ilhéus/BA
+603,Praia de Atalaia,Luís Correia,PI,2019-11-15,Luís Correia/PI
+604,Praia do Pontal do Ipiranga,Linhares,ES,2019-11-15,Linhares/ES
+605,Praia Peito de Moça,Luís Correia,PI,2019-11-15,Luís Correia/PI
+606,Praia do Bugigão em Caraíva,Prado,BA,2019-11-15,Prado/BA
+607,Ponta do Corumbau,Porto Seguro,BA,2019-11-15,Porto Seguro/BA
+608,Praia da Costa,Barra Dos Coqueiros,SE,2019-11-16,Barra Dos Coqueiros/SE
+609,Praia Atalaia Nova,Barra Dos Coqueiros,SE,2019-11-16,Barra Dos Coqueiros/SE
+610,Praia Pontal do Maceió,Fortim,CE,2019-11-16,Fortim/CE
+611,Praia de Arakakaí,Porto Seguro,BA,2019-11-16,Porto Seguro/BA
+612,Praia do Salgado,Maragogi,AL,2019-11-16,Maragogi/AL
+613,Praia da Costa,Barra Dos Coqueiros,SE,2019-11-16,Barra Dos Coqueiros/SE
+614,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-16,Conceição Da Barra/ES
+615,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-16,Conceição Da Barra/ES
+616,Praia de Barra Grande,Maraú,BA,2019-11-16,Maraú/BA
+617,Barra de Belmonte (Praia de Caieira),Santa Cruz Cabrália,BA,2019-11-16,Santa Cruz Cabrália/BA
+618,Praia de Pratigi,Ituberá,BA,2019-11-16,Ituberá/BA
+619,Manguezais da Ilha do Caju,Araioses,MA,2019-11-16,Araioses/MA
+620,Ilha da Melancieira,Tutóia,MA,2019-11-16,Tutóia/MA
+621,Praia de Guriri,São Mateus,ES,2019-11-16,São Mateus/ES
+622,Praia de Urussuquara,São Mateus,ES,2019-11-16,São Mateus/ES
+623,Praia do Pontal do Ipiranga,Linhares,ES,2019-11-17,Linhares/ES
+624,Praia Costa Azul,Jandaíra,BA,2019-11-17,Jandaíra/BA
+625,Praia de Caraúbas,Maxaranguape,RN,2019-11-17,Maxaranguape/RN
+626,Entrerios Inhambupe/Itariri,Conde,BA,2019-11-17,Conde/BA
+627,Praia de Barra de Tabatinga,Nísia Floresta,RN,2019-11-17,Nísia Floresta/RN
+628,Carvalho,Nilo Peçanha,BA,2019-11-17,Nilo Peçanha/BA
+629,Praia de Itaúnas,Conceição Da Barra,ES,2019-11-17,Conceição Da Barra/ES
+630,Quinta Praia (Praia do Encanto),Cairu,BA,2019-11-17,Cairu/BA
+631,Praia de Bitingui,Japaratinga,AL,2019-11-17,Japaratinga/AL
+632,Arandi-Algodões,Maraú,BA,2019-11-17,Maraú/BA
+633,Praia do Degredo,Linhares,ES,2019-11-17,Linhares/ES
+634,Praia Cacimbas,Linhares,ES,2019-11-17,Linhares/ES
+635,Praia de Guriri,São Mateus,ES,2019-11-17,São Mateus/ES
+636,Praia da Via Costeira,Natal,RN,2019-11-17,Natal/RN
+637,Praia de Cumbuco,Caucaia,CE,2019-11-17,Caucaia/CE
+638,Praia de Caraíva,Porto Seguro,BA,2019-11-18,Porto Seguro/BA
+639,Morro de São Paulo (terceira praia),Cairu,BA,2019-11-18,Cairu/BA
+640,Praia de Barra Seca,Linhares,ES,2019-11-18,Linhares/ES
+641,Praia de Cumbuco,Fortaleza,CE,2019-11-18,Fortaleza/CE
+642,Praia de Mamucaba,Tamandaré,PE,2019-11-18,Tamandaré/PE
+643,Praia de Itaúnas,Conceição Da Barra,ES,2019-11-18,Conceição Da Barra/ES
+644,Praia de Povoação,Linhares,ES,2019-11-18,Linhares/ES
+645,Praia do Mutá,Porto Seguro,BA,2019-11-18,Porto Seguro/BA
+646,Praia de São Bento,Maragogi,AL,2019-11-18,Maragogi/AL
+647,Praia de Guaxindiba,Conceição Da Barra,ES,2019-11-18,Conceição Da Barra/ES
+648,Praia da Barra Nova,São Mateus,ES,2019-11-18,São Mateus/ES
+649,Praia de Guriri,Conceição Da Barra,ES,2019-11-18,Conceição Da Barra/ES
+650,Barra de Belmonte (Praia de Caieira),Belmonte,BA,2019-11-18,Belmonte/BA
+651,Ilha Grande de Camamu,Camamu,BA,2019-11-18,Camamu/BA
+652,Cajaíba do Sul,Camamu,BA,2019-11-18,Camamu/BA
+653,Praia de Regência,Linhares,ES,2019-11-18,Linhares/ES
+654,Praia Pirambu,Pirambu,SE,2019-11-18,Pirambu/SE
+655,Praia do Bosque,São Mateus,ES,2019-11-18,São Mateus/ES
+656,Praia da Barra Nova,São Mateus,ES,2019-11-18,São Mateus/ES
+657,Praia de Itacimirim,Mata De São João,BA,2019-11-18,Mata De São João/BA
+658,Praia da Ponta dos Mangues,Pacatuba,SE,2019-11-18,Pacatuba/SE
+659,Praia do Degredo,Linhares,ES,2019-11-18,Linhares/ES
+660,Praia Cacimbas,Linhares,ES,2019-11-18,Linhares/ES
+661,Praia de Povoação,Linhares,ES,2019-11-18,Linhares/ES
+662,Delta Sul do Parnaíba,Parnaíba,PI,2019-11-18,Parnaíba/PI
+663,Praia do Taipe (Praia do Rio da Barra),Porto Seguro,BA,2019-11-19,Porto Seguro/BA
+664,Ilha do Delta do Jequitinhonha,Belmonte,BA,2019-11-19,Belmonte/BA
+665,Praia de Povoação,Linhares,ES,2019-11-19,Linhares/ES
+666,Peso,Canavieiras,BA,2019-11-19,Canavieiras/BA
+667,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-19,Conceição Da Barra/ES
+668,Praia de Iemanjá,Caravelas,BA,2019-11-19,Caravelas/BA
+669,Praia de Saquaíra,Maraú,BA,2019-11-19,Maraú/BA
+670,Praia da Barra Nova,São Mateus,ES,2019-11-19,São Mateus/ES
+671,Praia do Rio e praia do centro,Prado,BA,2019-11-19,Prado/BA
+672,Praia da Barra do Sargi,Ilhéus,BA,2019-11-19,Ilhéus/BA
+673,Praia de Mamoã,Ilhéus,BA,2019-11-19,Ilhéus/BA
+674,Praia de Monsarás,Linhares,ES,2019-11-19,Linhares/ES
+675,Praia dos Milionários,Ilhéus,BA,2019-11-19,Ilhéus/BA
+676,Praia dos Milionários,Ilhéus,BA,2019-11-19,Ilhéus/BA
+677,Praia de Urussuquara,São Mateus,ES,2019-11-19,São Mateus/ES
+678,Praia de Gramuté,Aracruz,ES,2019-11-19,Aracruz/ES
+679,ponta do ramo,Ilhéus,BA,2019-11-19,Ilhéus/BA
+680,Praia de Pecém,São Gonçalo Do Amarante,CE,2019-11-19,São Gonçalo Do Amarante/CE
+681,Praia do Miai de Cima,Coruripe,AL,2019-11-20,Coruripe/AL
+682,Mangue Seco,Jandaíra,BA,2019-11-20,Jandaíra/BA
+683,Ilha Maiaú,Cururupu,MA,2019-11-20,Cururupu/MA
+684,Praia de Baixio,Esplanada,BA,2019-11-20,Esplanada/BA
+685,Praia do Saco,Estância,SE,2019-11-20,Estância/SE
+686,Praia do Saco,Estância,SE,2019-11-20,Estância/SE
+687,Praia do Saco,Estância,SE,2019-11-20,Estância/SE
+688,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-20,Itaporanga D'Ajuda/SE
+689,Maragogi,Maragogi,AL,2019-11-20,Maragogi/AL
+690,Barra de Serinhaém,Igrapiúna,BA,2019-11-20,Igrapiúna/BA
+691,Praia dos Náufragos,Aracaju,SE,2019-11-20,Aracaju/SE
+692,Porto de Sauípe,Entre Rios,BA,2019-11-20,Entre Rios/BA
+693,Praia dos Náufragos,Aracaju,SE,2019-11-20,Aracaju/SE
+694,Praia dos Náufragos,Aracaju,SE,2019-11-20,Aracaju/SE
+695,Porto do Campo,Camamu,BA,2019-11-20,Camamu/BA
+696,Praia dos Milionários,Ilhéus,BA,2019-11-20,Ilhéus/BA
+697,Tramataia,Marcação,PB,2019-11-20,Marcação/PB
+698,Praia do Pontal,Ilha Grande,PI,2019-11-20,Ilha Grande/PI
+699,Pedra do Sal,Parnaíba,PI,2019-11-20,Parnaíba/PI
+700,Praia Costa Bela,Serra,ES,2019-11-20,Serra/ES
+701,Foz do Rio São Francisco,Piaçabuçu,AL,2019-11-20,Piaçabuçu/AL
+702,Praia de Guriri,São Mateus,ES,2019-11-21,São Mateus/ES
+703,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-21,Conceição Da Barra/ES
+704,Mar Grande,Vera Cruz,BA,2019-11-21,Vera Cruz/BA
+705,Praia da Barra Nova,São Mateus,ES,2019-11-21,São Mateus/ES
+706,Praia da Barra Nova,São Mateus,ES,2019-11-21,São Mateus/ES
+707,Praia Atalaia Nova,Nossa Senhora Do Socorro,SE,2019-11-21,Nossa Senhora Do Socorro/SE
+708,Praia de Guriri,Conceição Da Barra,ES,2019-11-21,Conceição Da Barra/ES
+709,Córrego Barra Nova,São Mateus,ES,2019-11-21,São Mateus/ES
+710,Paraíso dos Pataxós,Porto Seguro,BA,2019-11-21,Porto Seguro/BA
+711,Axixá,Parnaíba,PI,2019-11-21,Parnaíba/PI
+712,Paraíso dos Pataxós,Porto Seguro,BA,2019-11-21,Porto Seguro/BA
+713,Taperapuã,Porto Seguro,BA,2019-11-21,Porto Seguro/BA
+714,Coqueirinho,Itaporanga D'Ajuda,SE,2019-11-22,Itaporanga D'Ajuda/SE
+715,Praia da Costa,Vila Velha,ES,2019-11-22,Vila Velha/ES
+716,Praia da Barra do Albino,Canavieiras,BA,2019-11-22,Canavieiras/BA
+717,Praia de Pontal de Coruripe,Coruripe,AL,2019-11-22,Coruripe/AL
+718,Praia de Guriri,Conceição Da Barra,ES,2019-11-22,Conceição Da Barra/ES
+719,Praia da Costa,Canavieiras,BA,2019-11-22,Canavieiras/BA
+720,Praia da Barra do Albino,Canavieiras,BA,2019-11-22,Canavieiras/BA
+721,Praia de Santo André,Santa Cruz Cabrália,BA,2019-11-22,Santa Cruz Cabrália/BA
+722,Praia da Costa,Canavieiras,BA,2019-11-22,Canavieiras/BA
+723,Santo Amaro das Brotas,Santo Amaro Das Brotas,SE,2019-11-22,Santo Amaro Das Brotas/SE
+724,Praia de Regência,Linhares,ES,2019-11-22,Linhares/ES
+725,Praia de Putiry,Aracruz,ES,2019-11-22,Aracruz/ES
+726,Arpoador,Tutóia,MA,2019-11-22,Tutóia/MA
+727,Grussaí,São João Da Barra,RJ,2019-11-22,São João Da Barra/RJ
+728,Praia Califa,Fundão,ES,2019-11-23,Fundão/ES
+729,praia califa,Fundão,ES,2019-11-23,Fundão/ES
+730,Praia de Itaipu de Fora - Barra Grande de Maraú,Maraú,BA,2019-11-23,Maraú/BA
+731,Praia da Costa,Canavieiras,BA,2019-11-23,Canavieiras/BA
+732,Praia da Costa,Vila Velha,ES,2019-11-23,Vila Velha/ES
+733,Praia de Junga,Paulista,PE,2019-11-23,Paulista/PE
+734,Praia de Juerana,Ilhéus,BA,2019-11-23,Ilhéus/BA
+735,Praia Pontal de Coruripe,Coruripe,AL,2019-11-23,Coruripe/AL
+736,Praia da Barra Nova,São Mateus,ES,2019-11-23,São Mateus/ES
+737,Praia de Guaibim,Valença,BA,2019-11-23,Valença/BA
+738,Praia de Guriri,Conceição Da Barra,ES,2019-11-23,Conceição Da Barra/ES
+739,Taipu de Fora,Maraú,BA,2019-11-23,Maraú/BA
+740,Praia de Itaipu de Fora - Barra Grande de Maraú,Maraú,BA,2019-11-23,Maraú/BA
+741,Praia de Guaibim,Valença,BA,2019-11-23,Valença/BA
+742,Praia de Guaibim,Valença,BA,2019-11-23,Valença/BA
+743,Praia da Barra Nova,São Mateus,ES,2019-11-23,São Mateus/ES
+744,Praia da Barra Nova,São Mateus,ES,2019-11-23,São Mateus/ES
+745,Praia de Cacimbas,Linhares,ES,2019-11-23,Linhares/ES
+746,Praia do Degredo,Linhares,ES,2019-11-23,Linhares/ES
+747,Barra do Sahy,Aracruz,ES,2019-11-23,Aracruz/ES
+748,Praia de Barra Seca,São Mateus,ES,2019-11-23,São Mateus/ES
+749,Putiry,Aracruz,ES,2019-11-23,Aracruz/ES
+750,Ponta dos Tubarões,Igrapiúna,BA,2019-11-24,Igrapiúna/BA
+751,Jardim Atlântico,Ilhéus,BA,2019-11-24,Ilhéus/BA
+752,Praia do Pontal do Ipiranga,Linhares,ES,2019-11-24,Linhares/ES
+753,Coqueiral,Aracruz,ES,2019-11-24,Aracruz/ES
+754,Praia de Urussuquara,São Mateus,ES,2019-11-24,São Mateus/ES
+755,Praia de Guriri,São Mateus,ES,2019-11-24,São Mateus/ES
+756,Dunas de Marapé,Jequiá Da Praia,AL,2019-11-24,Jequiá Da Praia/AL
+757,Praia do Gunga,Roteiro,AL,2019-11-25,Roteiro/AL
+758,Poças,Conde,BA,2019-11-25,Conde/BA
+759,Quarta Praia,Cairu,BA,2019-11-25,Cairu/BA
+760,Barreira do Inferno,Parnamirim,RN,2019-11-25,Parnamirim/RN
+761,Porto de Vacas,Barra De São Miguel,AL,2019-11-26,Barra De São Miguel/AL
+762,Praia dos Sonhos,São Francisco De Itabapoana,RJ,2019-11-26,São Francisco De Itabapoana/RJ
+763,Caburé,Barreirinhas,MA,2019-11-26,Barreirinhas/MA
+764,Praia Pontal do Sul,Conceição Da Barra,ES,2019-11-26,Conceição Da Barra/ES
+765,Ilha do Caju,Araioses,MA,2019-11-26,Araioses/MA
+766,Ilha do Caju,Araioses,MA,2019-11-26,Araioses/MA
+767,Praia de Regência,Linhares,ES,2019-11-26,Linhares/ES
+768,Santa Luzia,Barra De Santo Antônio,AL,2019-11-26,Barra De Santo Antônio/AL
+769,Araripe,Santa Cruz Cabrália,BA,2019-11-26,Santa Cruz Cabrália/BA
+770,Praia do Pontal,Ilha Grande,PI,2019-11-26,Ilha Grande/PI
+771,Arandi-Algodões,Maraú,BA,2019-11-27,Maraú/BA
+772,Porto de Sauípe,Entre Rios,BA,2019-11-27,Entre Rios/BA
+773,Praia de Santo André,Santa Cruz Cabrália,BA,2019-11-27,Santa Cruz Cabrália/BA
+774,Praia do Pontal,Ilha Grande,PI,2019-11-27,Ilha Grande/PI
+775,Pedra do Sal,Parnaíba,PI,2019-11-27,Parnaíba/PI
+776,Caraiva,Porto Seguro,BA,2019-11-27,Porto Seguro/BA
+777,Praia do Japonês,Camaçari,BA,2019-11-27,Camaçari/BA
+778,Praia de Pontal do Peba,Piaçabuçu,AL,2019-11-27,Piaçabuçu/AL
+779,Caraiva,Porto Seguro,BA,2019-11-27,Porto Seguro/BA
+780,Ponta dos Tubarões,Igrapiúna,BA,2019-11-28,Igrapiúna/BA
+781,Mangue Seco,Jandaíra,BA,2019-11-28,Jandaíra/BA
+782,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-28,Itaporanga D'Ajuda/SE
+783,Praia do Degredo,Linhares,ES,2019-11-28,Linhares/ES
+784,Praia do Degredo,Linhares,ES,2019-11-28,Linhares/ES
+785,Praia do Degredo,Linhares,ES,2019-11-28,Linhares/ES
+786,Abais,Estância,SE,2019-11-28,Estância/SE
+787,Praia de Alcobaça (Praia do Centro),Alcobaça,BA,2019-11-28,Alcobaça/BA
+788,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-28,Itaporanga D'Ajuda/SE
+789,Praia Caueira,Itaporanga D'Ajuda,SE,2019-11-28,Itaporanga D'Ajuda/SE
+790,Praia de Mangue Seco,Jandaíra,BA,2019-11-28,Jandaíra/BA
+791,Assis Chateaubriand,Maceió,AL,2019-11-28,Maceió/AL
+792,Cumuruxatiba,Prado,BA,2019-11-28,Prado/BA
+793,Barra do Garcez,Jaguaripe,BA,2019-11-28,Jaguaripe/BA
+794,Costa Azul,Jandaíra,BA,2019-11-28,Jandaíra/BA
+795,Abreu do Una,São José Da Coroa Grande,PE,2019-11-28,São José Da Coroa Grande/PE
+796,Santa Isabel,Barra Dos Coqueiros,SE,2019-11-29,Barra Dos Coqueiros/SE
+797,Praia Atalaia Nova,Barra Dos Coqueiros,SE,2019-11-29,Barra Dos Coqueiros/SE
+798,Residencial Portal dos Corais,Aracaju,SE,2019-11-29,Aracaju/SE
+799,Guarajuba,Camaçari,BA,2019-11-29,Camaçari/BA
+800,Ilhas dos Poldros,Araioses,MA,2019-11-29,Araioses/MA
+801,Ilha dos Poldros,Araioses,MA,2019-11-29,Araioses/MA
+802,Cumuruxatiba,Prado,BA,2019-11-29,Prado/BA
+803,Praia de Pontal do Peba,Piaçabuçu,AL,2019-11-29,Piaçabuçu/AL
+804,Praia de Pontal do Peba,Piaçabuçu,AL,2019-11-29,Piaçabuçu/AL
+805,Praia de Pontal do Peba,Piaçabuçu,AL,2019-11-29,Piaçabuçu/AL
+806,Piaçabuçu,Piaçabuçu,AL,2019-11-29,Piaçabuçu/AL
+807,Barraca do Japonês,Natal,RN,2019-11-30,Natal/RN
+808,Jandaíra,Jandaíra,BA,2019-11-30,Jandaíra/BA
+809,Japaratinga,Japaratinga,AL,2019-11-30,Japaratinga/AL
+810,Praia de Iansã,Alcobaça,BA,2019-11-30,Alcobaça/BA
+811,Ilha dos Poldros,Araioses,MA,2019-11-30,Araioses/MA
+812,Prado,Prado,BA,2019-11-30,Prado/BA
+813,Restinga,Belmonte,BA,2019-11-30,Belmonte/BA
+814,Piabuçu,Piaçabuçu,AL,2019-11-30,Piaçabuçu/AL
+815,Praia de Bitingui,Japaratinga,AL,2019-11-30,Japaratinga/AL
+816,Piabuçu,Piaçabuçu,AL,2019-11-30,Piaçabuçu/AL
+817,Piabuçu,Piaçabuçu,AL,2019-11-30,Piaçabuçu/AL
+818,Piabuçu,Piaçabuçu,AL,2019-11-30,Piaçabuçu/AL
+819,Piabuçu,Piaçabuçu,AL,2019-11-30,Piaçabuçu/AL
+820,Estaleiro Aracruz,Aracruz,ES,2019-11-30,Aracruz/ES
+821,Piabuçu,Piaçabuçu,AL,2019-11-30,Piaçabuçu/AL
+822,Farol de Porto Seguro,Porto Seguro,BA,2019-12-01,Porto Seguro/BA
+823,Jardim Atlântico,Serra,ES,2019-12-01,Serra/ES
+824,Miai de Baixo,Coruripe,AL,2019-12-01,Coruripe/AL
+825,Praia de Coroa Vermelha,Porto Seguro,BA,2019-12-01,Porto Seguro/BA
+826,Coroa Vermelha,Porto Seguro,BA,2019-12-01,Porto Seguro/BA
+827,Praia da Costa,Canavieiras,BA,2019-12-01,Canavieiras/BA
+828,Miai de Baixo,Coruripe,AL,2019-12-01,Coruripe/AL
+829,Praia do Toco,Feliz Deserto,AL,2019-12-01,Feliz Deserto/AL
+830,Miai de Baixo,Coruripe,AL,2019-12-01,Coruripe/AL
+831,Miai de Baixo,Coruripe,AL,2019-12-01,Coruripe/AL
+832,Praia de Guaibim,Valença,BA,2019-12-01,Valença/BA
+833,Praia de Coroa Vermelha,Santa Cruz Cabrália,BA,2019-12-01,Santa Cruz Cabrália/BA
+834,Praia de Pratigi,Ituberá,BA,2019-12-01,Ituberá/BA
+835,Praia do Caburé,Barreirinhas,MA,2019-12-01,Barreirinhas/MA
+836,Uruçuca_Itacaré,Itacaré,BA,2019-12-01,Itacaré/BA
+837,Grussaí,São João Da Barra,RJ,2019-12-01,São João Da Barra/RJ
+838,Praia do Caburé,Paulino Neves,MA,2019-12-01,Paulino Neves/MA
+839,Grussaí,São João Da Barra,RJ,2019-12-01,São João Da Barra/RJ
+840,Costa do Descobrimeto,Porto Seguro,BA,2019-12-01,Porto Seguro/BA
+841,Paraíso dos Pataxós,Porto Seguro,BA,2019-12-01,Porto Seguro/BA
+842,Fortaleza dos reis Magos,Tibau Do Sul,RN,2019-12-02,Tibau Do Sul/RN
+843,Coroa Vermelha,Porto Seguro,BA,2019-12-02,Porto Seguro/BA
+844,Praia de Camburi,Vitória,ES,2019-12-02,Vitória/ES
+845,Peso,Canavieiras,BA,2019-12-02,Canavieiras/BA
+846,Barra do Rio Poxim,Coruripe,AL,2019-12-02,Coruripe/AL
+847,Ilha dos Poldros,Araioses,MA,2019-12-02,Araioses/MA
+848,Arpoador,Tutóia,MA,2019-12-02,Tutóia/MA
+849,Tutoia,Tutóia,MA,2019-12-02,Tutóia/MA
+850,Paríso dos Pataxos,Porto Seguro,BA,2019-12-02,Porto Seguro/BA
+851,Tutoia,Tutóia,MA,2019-12-02,Tutóia/MA
+852,Caraiva,Porto Seguro,BA,2019-12-03,Porto Seguro/BA
+853,Upanema,Areia Branca,RN,2019-12-03,Areia Branca/RN
+854,Praia do Poxim,Una,BA,2019-12-03,Una/BA
+855,Costa dos Corais,Porto De Pedras,AL,2019-12-03,Porto De Pedras/AL
+856,Guaiú,Santa Cruz Cabrália,BA,2019-12-03,Santa Cruz Cabrália/BA
+857,Poça,Conde,BA,2019-12-03,Conde/BA
+858,Praia do Poxim,Canavieiras,BA,2019-12-03,Canavieiras/BA
+859,Praia do Poxim,Canavieiras,BA,2019-12-03,Canavieiras/BA
+860,Praia do Mutá,Porto Seguro,BA,2019-12-03,Porto Seguro/BA
+861,Uruçuca_Itacaré,Uruçuca,BA,2019-12-03,Uruçuca/BA
+862,Praia do Poxim,Canavieiras,BA,2019-12-03,Canavieiras/BA
+863,Praia de Guaibim,Valença,BA,2019-12-03,Valença/BA
+864,Praia de Saquaíra,Maraú,BA,2019-12-03,Maraú/BA
+865,Praia de Lençõis,Una,BA,2019-12-03,Una/BA
+866,Praia de Lençõis,Una,BA,2019-12-03,Una/BA
+867,Dunas de Marapé,Jequiá Da Praia,AL,2019-12-03,Jequiá Da Praia/AL
+868,Costa dos Corais,Porto De Pedras,AL,2019-12-03,Porto De Pedras/AL
+869,Praia Grande,Vitória,ES,2019-12-04,Vitória/ES
+870,Praia Grande,Vitória,ES,2019-12-04,Vitória/ES
+871,Praia da Barra,Conceição Da Barra,ES,2019-12-04,Conceição Da Barra/ES
+872,Praia do Saco (3),Estância,SE,2019-12-04,Estância/SE
+873,Ilha dos Poldros,Araioses,MA,2019-12-04,Araioses/MA
+874,Praia do Taboado,Jequiá Da Praia,AL,2019-12-04,Jequiá Da Praia/AL
+875,Praia do Taboado,Jequiá Da Praia,AL,2019-12-04,Jequiá Da Praia/AL
+876,Canárias,Araioses,MA,2019-12-04,Araioses/MA
+877,Peso,Canavieiras,BA,2019-12-04,Canavieiras/BA
+878,Ilha do Cajú,Araioses,MA,2019-12-04,Araioses/MA
+879,Praia de Piracanga,Maraú,BA,2019-12-04,Maraú/BA
+880,Ilha do Cajú,Araioses,MA,2019-12-04,Araioses/MA
+881,Mangue Seco,Jandaíra,BA,2019-12-04,Jandaíra/BA
+882,Foz do Rio Manguaba,Porto De Pedras,AL,2019-12-04,Porto De Pedras/AL
+883,Costa do Corais,Porto De Pedras,AL,2019-12-04,Porto De Pedras/AL
+884,Praia de Larges,Porto De Pedras,AL,2019-12-04,Porto De Pedras/AL
+885,Praia de Larges,Porto De Pedras,AL,2019-12-04,Porto De Pedras/AL
+886,Arembepe,Camaçari,BA,2019-12-05,Camaçari/BA
+887,Barra de São Miguel,Barra De São Miguel,AL,2019-12-05,Barra De São Miguel/AL
+888,Canárias,Araioses,MA,2019-12-05,Araioses/MA
+889,Canárias,Araioses,MA,2019-12-05,Araioses/MA
+890,Tutoia,Tutóia,MA,2019-12-05,Tutóia/MA
+891,Canoa Quebrada,Aracati,CE,2019-12-06,Aracati/CE
+892,Praia da Via Costeira,Natal,RN,2019-12-06,Natal/RN
+893,Praia do Poxim,Canavieiras,BA,2019-12-06,Canavieiras/BA
+894,Cumbe,Aracati,CE,2019-12-09,Aracati/CE
+895,Praia Pirambu,Pirambu,SE,2019-12-09,Pirambu/SE
+896,Praia de Pontal de Coruripe,Coruripe,AL,2019-12-09,Coruripe/AL
+897,Praia Pirambu,Pirambu,SE,2019-12-09,Pirambu/SE
+898,Praia da Ponta dos Mangues,Pacatuba,SE,2019-12-09,Pacatuba/SE
+899,Ilha de Santana,Humberto De Campos,MA,2019-12-10,Humberto De Campos/MA
+900,Praia de Zumbi,Rio Do Fogo,RN,2019-12-11,Rio Do Fogo/RN
+901,Praia de Icaraí de Amontada,Amontada,CE,2019-12-11,Amontada/CE
+902,Barra de Serinhoém,Igrapiúna,BA,2019-12-11,Igrapiúna/BA
+903,Praia Grande,Fundão,ES,2019-12-11,Fundão/ES
+904,Praia do Canto,Vitória,ES,2019-12-11,Vitória/ES
+905,Praia do Canto,Vitória,ES,2019-12-11,Vitória/ES
+906,Praia Grande,Vitória,ES,2019-12-11,Vitória/ES
+907,Praia Grande,Vitória,ES,2019-12-11,Vitória/ES
+908,Caiçara do Norte,Caiçara Do Norte,RN,2019-12-11,Caiçara Do Norte/RN
+909,Barra Grande,Icapuí,CE,2019-12-11,Icapuí/CE
+910,Praia Curva da Jurema,Vitória,ES,2019-12-11,Vitória/ES
+911,Ilha do Frade,Vitória,ES,2019-12-11,Vitória/ES
+912,Praiade Arakakaí,Santa Cruz Cabrália,BA,2019-12-11,Santa Cruz Cabrália/BA
+913,Ilha do Delta do Jequitinhonha,Belmonte,BA,2019-12-11,Belmonte/BA
+914,Praia da Barra,Vila Velha,ES,2019-12-11,Vila Velha/ES
+915,Rio Punaú,Rio Do Fogo,RN,2019-12-11,Rio Do Fogo/RN
+916,Praia de Mamoã,Ilhéus,BA,2019-12-11,Ilhéus/BA
+917,Aracruz,Aracruz,ES,2019-12-11,Aracruz/ES
+918,Praia das Castanheiras,Guarapari,ES,2019-12-11,Guarapari/ES
+919,Santa Cruz,Aracruz,ES,2019-12-11,Aracruz/ES
+920,Aracruz,Aracruz,ES,2019-12-11,Aracruz/ES
+921,Aracruz,Aracruz,ES,2019-12-11,Aracruz/ES
+922,Moitas,Amontada,CE,2019-12-11,Amontada/CE
+923,Praia Sítio do Conde,Conde,BA,2019-12-11,Conde/BA
+924,Praia do Poxim,Canavieiras,BA,2019-12-11,Canavieiras/BA
+925,Travosa,Santo Amaro Do Maranhão,MA,2019-12-11,Santo Amaro Do Maranhão/MA
+926,Praia de Iansã,Alcobaça,BA,2019-12-11,Alcobaça/BA
+927,Praia de Arrombado,Luís Correia,PI,2019-12-11,Luís Correia/PI
+928,Praia da Areia Preta,Guarapari,ES,2019-12-11,Guarapari/ES
+929,Putiry,Aracruz,ES,2019-12-11,Aracruz/ES
+930,Santa Cruz,Aracruz,ES,2019-12-11,Aracruz/ES
+931,Praia Castanheiras,Aracruz,ES,2019-12-11,Aracruz/ES
+932,Quinta Praia (Praia do Encanto),Cairu,BA,2019-12-11,Cairu/BA
+933,Praia de Trancoso,Porto Seguro,BA,2019-12-11,Porto Seguro/BA
+934,Arpoador,Tutóia,MA,2019-12-11,Tutóia/MA
+935,Viral,Aracaju,SE,2019-12-12,Aracaju/SE
+936,Abrolhos,Caravelas,BA,2019-12-12,Caravelas/BA
+937,Barr Grande (sul),Maragogi,AL,2019-12-13,Maragogi/AL
+938,Praia do Morro,Guarapari,ES,2019-12-13,Guarapari/ES
+939,Santa Mônica,Guarapari,ES,2019-12-13,Guarapari/ES
+940,Barra do Rio,Extremoz,RN,2019-12-13,Extremoz/RN
+941,Praia do Morro,Guarapari,ES,2019-12-13,Guarapari/ES
+942,Uruçuca_Itacare,Uruçuca,BA,2019-12-13,Uruçuca/BA
+943,Praia do Antunes,Maragogi,AL,2019-12-13,Maragogi/AL
+944,Ilha dos Poldros,Araioses,MA,2019-12-14,Araioses/MA
+945,Ilha dos Poldros,Araioses,MA,2019-12-14,Araioses/MA
+946,Praia da Majorlândia,Aracati,CE,2019-12-14,Aracati/CE
+947,Praia do Pontal,Parnaíba,PI,2019-12-14,Parnaíba/PI
+948,Canárias,Araioses,MA,2019-12-14,Araioses/MA
+949,Canárias,Araioses,MA,2019-12-14,Araioses/MA
+950,Ilha dos Poldros,Araioses,MA,2019-12-14,Araioses/MA
+951,Ilha dos Poldros,Araioses,MA,2019-12-14,Araioses/MA
+952,Barra de Belmonte (Praia de Caieira),Belmonte,BA,2019-12-14,Belmonte/BA
+953,Mamucabo,Esplanada,BA,2019-12-14,Esplanada/BA
+954,Praia de Japaratinga,Japaratinga,AL,2019-12-14,Japaratinga/AL
+955,Jandaira,Jandaíra,BA,2019-12-14,Jandaíra/BA
+956,Foz do rio Manguaba,Porto De Pedras,AL,2019-12-14,Porto De Pedras/AL
+957,Conceiço da Barra,Conceição Da Barra,ES,2019-12-15,Conceição Da Barra/ES
+958,Barra do Itariri,Conde,BA,2019-12-16,Conde/BA
+959,Praia do Corumbau,Prado,BA,2019-12-17,Prado/BA
+960,Praia Caueira,Itaporanga D'Ajuda,SE,2019-12-17,Itaporanga D'Ajuda/SE
+961,Praia de Mangue Seco,Jandaíra,BA,2019-12-17,Jandaíra/BA
+962,Aritagua,Ilhéus,BA,2019-12-17,Ilhéus/BA
+963,Praia do Pontal,Ilha Grande,PI,2019-12-17,Ilha Grande/PI
+964,Praia de São Bento,Maragogi,AL,2019-12-18,Maragogi/AL
+965,Canavieiras,Canavieiras,BA,2019-12-18,Canavieiras/BA
+966,Praia do Piracanga,Itacaré,BA,2019-12-18,Itacaré/BA
+967,Uruçuca_Itacaré,Uruçuca,BA,2019-12-19,Uruçuca/BA
+968,Porto de Sauipe,Entre Rios,BA,2019-12-19,Entre Rios/BA
+969,Praia do Poxim,Canavieiras,BA,2019-12-19,Canavieiras/BA
+970,Canarias,Araioses,MA,2019-12-19,Araioses/MA
+971,Canavieiras,Canavieiras,BA,2019-12-19,Canavieiras/BA
+972,Dunas de Marape,Jequiá Da Praia,AL,2019-12-19,Jequiá Da Praia/AL
+973,Praia Patizeiro,Itacaré,BA,2019-12-20,Itacaré/BA
+974,Camuruxatiba,Prado,BA,2019-12-20,Prado/BA
+975,Praia de Ponta da Tulha,Ilhéus,BA,2019-12-20,Ilhéus/BA
+976,Camuruxatiba,Prado,BA,2019-12-21,Prado/BA
+977,Praia do rio,Prado,BA,2019-12-21,Prado/BA
+978,Praia do Rio,Prado,BA,2019-12-21,Prado/BA
+979,Praia do Poxim,Canavieiras,BA,2019-12-23,Canavieiras/BA
+980,Praia do Poxim,Canavieiras,BA,2019-12-23,Canavieiras/BA
+981,Canavieiras,Canavieiras,BA,2019-12-24,Canavieiras/BA
+982,Coqueirinho,Itaporanga D'Ajuda,SE,2019-12-26,Itaporanga D'Ajuda/SE
+983,Praia de São Bento,Maragogi,AL,2019-12-27,Maragogi/AL
+984,Canavieiras,Canavieiras,BA,2019-12-28,Canavieiras/BA
+985,Cumuruxatiba,Prado,BA,2019-12-28,Prado/BA
+986,Praia do Poxim,Canavieiras,BA,2019-12-29,Canavieiras/BA
+987,Ponta da Barra,Marechal Deodoro,AL,2019-12-30,Marechal Deodoro/AL
+988,Ponta da Barra,Marechal Deodoro,AL,2019-12-30,Marechal Deodoro/AL
+989,Praia de Caetanos,Itapipoca,CE,2019-01-01,Itapipoca/CE
+990,Praia de Caetanos,Amontada,CE,2019-01-01,Amontada/CE
+991,Praia de Almofala,Itarema,CE,2019-01-02,Itarema/CE
+992,Praia de Pontal de Coruripe,Coruripe,AL,2019-01-02,Coruripe/AL
+993,Praia de Pontal de Coruripe,Coruripe,AL,2019-01-02,Coruripe/AL
+994,Praia de Icaraí de Amontada,Amontada,CE,2019-01-02,Amontada/CE
+995,Praia de Almofala,Itarema,CE,2019-01-03,Itarema/CE
+996,Praia do Carro Quebrado,Passo De Camaragibe,AL,2019-01-08,Passo De Camaragibe/AL
+997,Praia de Caetanos,Amontada,CE,2019-01-13,Amontada/CE
+998,Praia da Ponta dos Mangues,Pacatuba,SE,2019-01-16,Pacatuba/SE
+999,Praia da Ponta dos Mangues,Pacatuba,SE,2019-01-16,Pacatuba/SE
+1000,Praia da Ponta dos Mangues,Pacatuba,SE,2019-01-16,Pacatuba/SE
+1001,Praia Pirambu,Pirambu,SE,2019-01-16,Pirambu/SE
+1002,Praia dos Caetanos,Amontada,CE,2019-01-17,Amontada/CE
+1003,Jacumã,Ceará-Mirim,RN,2019-11-09,Ceará-Mirim/RN
